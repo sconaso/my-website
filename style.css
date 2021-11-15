@@ -1,3 +1,11 @@
 body {
-    background-color: lightsalmon;
+    color: #f2f2f2;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #1f4037;
+    margin: 20px;
   }
+
+p#quip {
+    font-style: italic;
+    font-size: smaller;
+}
