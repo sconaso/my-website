@@ -5,7 +5,12 @@ body {
     margin: 20px;
   }
 
+p {
+    color: lightsteelblue;
+}
+
 p#quip {
     font-style: italic;
     font-size: smaller;
+    color: lightsalmon;
 }

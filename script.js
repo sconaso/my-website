@@ -1,4 +1,11 @@
-const h2 = document.createElement('h2');
-h2.textContent = "This content added by JavaScript";
+function expandDivOne() {
+    document.getElementById("divOne").removeAttribute("hidden");
+}
 
-document.querySelector('body').appendChild(h2);
+function expandDivTwo() {
+    document.getElementById("divTwo").removeAttribute("hidden");
+}
+
+function expandDivThree() {
+    document.getElementById("divThree").removeAttribute("hidden");
+}
